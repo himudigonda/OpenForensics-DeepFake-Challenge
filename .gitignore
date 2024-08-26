@@ -1,4 +1,10 @@
-data/*
-checkpoints/*
-logs/*
 *.log
+**/__pycache__/**
+**/*.egg-info
+**/*.pyc
+**/*.pyo
+**/build
+**/dist
+checkpoints/*
+data/*
+logs/*
