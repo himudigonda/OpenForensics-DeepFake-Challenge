@@ -1,4 +1,5 @@
-# Deepfake Detection with Swin Transformer
+# OpenForensics DeepFakeChallenge
+## Training A Swin Transformer
 
 This repository contains code for deepfake detection using the Swin Transformer architecture. The project leverages PyTorch and PyTorch Lightning for training and evaluation.
 
